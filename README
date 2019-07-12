@@ -1,2 +1,9 @@
 To Run: 
-	* python realtime.py
+	* python main.py
+	
+Requirements:
+	* pandas 3.4
+	* xlsxwriter 1.1.8
+	* pywin32 224 on Windows Machine
+	* tabulate 0.8.4
+	
